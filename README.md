@@ -1,6 +1,6 @@
 # Projetos DIO - Lógica de Programação 🧠💻
 
-Este repositório contém os projetos desenvolvidos durante o curso **Savegnago-Lógica de Programação** da [Digital Innovation One (DIO)](https://www.dio.me/).
+Este repositório contém os projetos desenvolvidos durante o curso **Savegnago - Lógica de Programação** da [Digital Innovation One (DIO)](https://www.dio.me/).
 
 ## 📂 Projetos incluídos
 
